@@ -1,0 +1,9 @@
+This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning input file api.idx....
+!! Input index error (file = api.idx, line = 3):
+   -- Extra `!' at position 105 of first argument.
+done (4 entries accepted, 1 rejected).
+Sorting entries....done (10 comparisons).
+Generating output file api.ind....done (8 lines written, 0 warnings).
+Output written in api.ind.
+Transcript written in api.ilg.
