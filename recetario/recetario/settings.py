@@ -98,3 +98,10 @@ TEMPLATE_DIRS = (
                  )
 
 FILE_CHARSET = 'utf-8'
+
+#Configuraciones para enviar mensajes utilizando gmail
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'sigmasystem21@gmail.com'
+EMAIL_HOST_PASSWORD = 'useruser'
+EMAIL_PORT = 587
